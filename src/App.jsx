@@ -64,7 +64,6 @@ function App() {
                             />
                         </div>
                         <button type="submit" className="w-full bg-blue-600  px-4 y-3 rounded-lg">
-
                             Convert {from.toUpperCase()} to {to.toUpperCase()}
                         </button>
                     </form>
@@ -72,7 +71,6 @@ function App() {
             </div>
         </div>
     );
-
 }
 
 export default App
